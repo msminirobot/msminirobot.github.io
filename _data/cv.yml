@@ -61,15 +61,3 @@
     - title: <a href="https://github.com/ROS2swarm">ROS2swarm</a>
       year: 2020-now
       description: A ROS 2 package providing a library of and framework for swarm robot behaviors. 
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
