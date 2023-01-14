@@ -7,7 +7,7 @@
       value: English, German
 
 - title: Research Interests
-  type: nested_list
+  type: list
   contents:
     - swarm robotics and collective systems
     - automatic synthesis of swarm robot controllers using evolutionary algorithms and task-independent rewards
