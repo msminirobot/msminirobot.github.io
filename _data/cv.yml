@@ -33,35 +33,26 @@
       description: "focus area: applied computer science"
       
       
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: University of Konstanz
-      year: 2022
+    - title: Research Assistant (Postdoc) 
+      institution: University of Konstanz, Germany
+      year: 2022-now
       description:
         - Department of Computer and Information Science 
         - Cyber-Physical Systems Group
         - Affiliate member of the Cluster of Excellence *Centre for the Advanced Study of Collective Behaviour*
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Assistant (Doctorate) 
+      institution: University of Konstanz, Germany
+      year: 2017-2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Institute of Computer Engineering
+        - Service Robotics Group 
+    - title: Student Research Assistant
+      institution: German Research Center for Artificial Intelligence (DFKI), Berlin, Germany
+      year: 2014-2015
+      description: Language Technology Lab
 
 - title: Open Source Projects
   type: time_table
