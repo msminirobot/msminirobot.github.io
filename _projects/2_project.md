@@ -2,7 +2,7 @@
 layout: page
 title: ROS2swarm
 description: A ROS 2 package
-img: assets/img/3.jpg
+img: assets/img/ROS2swarm_TB.jpg
 importance: 2
 category: work
 ---
