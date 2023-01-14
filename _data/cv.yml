@@ -13,12 +13,9 @@
       institution: University of Lübeck, Lübeck, Germany
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - dissertation title: The Predicting Swarm: Evolving Collective Behaviors for Robot Swarms by Minimizing Surprise
+        - doctoral supervisor: Prof. Dr.-Ing. Heiko Hamann \linebreak
+        - second reviewer: Prof. Dr.-Ing. habil. Sanaz Mostaghim Description 1.
     - title: M.Sc. 
       institution: Technische Universität Berlin, Berlin, Germany
       year: 2017
@@ -89,7 +86,3 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
