@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - msminirobot
+  - ROS2swarm
+  - Minimize-Surprise
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ROS2swarm/ROS2swarm
