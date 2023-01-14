@@ -33,19 +33,27 @@
       institution: University of Konstanz, Germany
       year: 2022-now
       description:
-        - Department of Computer and Information Science 
-        - Cyber-Physical Systems Group
+        - Department of Computer and Information Science, Cyber-Physical Systems Group
         - Affiliate member of the Cluster of Excellence *Centre for the Advanced Study of Collective Behaviour*
     - title: Research Assistant (Doctorate) 
       institution: University of Konstanz, Germany
       year: 2017-2022
       description:
-        - Institute of Computer Engineering
-        - Service Robotics Group 
+        - Institute of Computer Engineering, Service Robotics Group 
     - title: Student Research Assistant
       institution: German Research Center for Artificial Intelligence (DFKI), Berlin, Germany
       year: 2014-2015
       description: Language Technology Lab
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Mathematics Tutor
+      institution: lehrreich Wilmersdorf, Berlin, Germany
+      year: 2016-2017
+    - title: Dual Student
+      institution: Hewlett-Packard GmbH, Dornach, Germany
+      year: 2011-2014
 
 - title: Open Source Projects
   type: time_table
