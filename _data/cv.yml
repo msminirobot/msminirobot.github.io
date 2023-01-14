@@ -6,6 +6,13 @@
     - name: Languages
       value: English, German
 
+- title: Research Interests
+  type: nested_list
+  contents:
+    - swarm robotics and collective systems
+    - automatic synthesis of swarm robot controllers using evolutionary algorithms and task-independent rewards
+    - application of collective robot behavior in the real world
+        
 - title: Education
   type: time_table
   contents:
@@ -73,16 +80,4 @@
     - year: 2029
       items: 
         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
