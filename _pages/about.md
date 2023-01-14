@@ -7,12 +7,11 @@ subtitle: Postdoctoral researcher. <a href='https://www.cps.uni-konstanz.de'>Uni
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: P1011732.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Konstanz</p>
+    <p>78457 Konstanz, Germany</p>
 news: true  # includes a list of news items
  
 
