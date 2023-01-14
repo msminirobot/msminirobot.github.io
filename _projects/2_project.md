@@ -17,7 +17,3 @@ ROS2swarm currently provides six movement patterns for robot motion and two voti
 The package is available for Dashing and Foxy since our main development platform is the TurtleBot3 Waffle Pi. Furthermore, we provide out-of-the-box support for the TurtleBot3 Burger and the Jackal UGV (using the ros1_bridge 5 package). We also provide simulations in Gazebo for all three platforms to simplify development. New platforms that provide distance measurements in a LaserScan message and are controlled by linear velocities along the x-axis and rotational velocities around the z-axis can easily be added.
 
 Currently, we are working on integrating support for robots with less sophisticated sensor setups, such as the Thymio II, enabling local communication, and adding more swarm behaviors.
-
-A detailed description of our ROS2swarm package can be found in our paper 115. The package itself is available here 137. If you are attending ICRA’22, come to our talk (session: Multi-Robot and Swarm Robotics II) and visit us during the poster session or watch our presentation online (registration for online participance is free).
-
-We hope to create a community that joins our effort to advance the package. Please contact us if you have ideas for new features or - even better - if you want to contribute yourself.
