@@ -16,22 +16,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: Dr.-Ing.
+    - title: Dr.-Ing. 
       institution: University of Lübeck, Lübeck, Germany
       year: 2022
-      description:
-        - "dissertation title: The Predicting Swarm: Evolving Collective Behaviors for Robot Swarms by Minimizing Surprise"
-        - "doctoral supervisor: Prof. Dr.-Ing. Heiko Hamann"
-        - "second reviewer: Prof. Dr.-Ing. habil. Sanaz Mostaghim"
-    - title: M.Sc. 
+    - title: M.Sc. in Computer Science 
       institution: Technische Universität Berlin, Berlin, Germany
       year: 2017
-      description: "focus area: intelligent systems"
-    - title: B.Sc. 
+    - title: B.Sc. in Applied Computer Science
       institution: Duale Hochschule Baden-Württemberg
-      year: 2014
-      description: "focus area: applied computer science"
-      
+      year: 2014      
       
 - title: Academic Experience
   type: time_table
@@ -57,9 +50,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/ROS2swarm">ROS2swarm</a>
+      year: 2020-now
+      description: A ROS 2 package providing a library of and framework for swarm robot behaviors. 
 
 - title: Honors and Awards
   type: time_table
