@@ -20,3 +20,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+I'm a postdoctoral researcher at the <a href="https://www.uni-konstanz.de">University Konstanz (Germany)</a> in the <a href="https://www.cps.uni-konstanz.de">Cyber-Physical Systems Group</a> headed by <a href="http://heikohamann.de">Prof. Dr.-Ing. Heiko Hamann</a>.
+My research interests are swarm robotics, collective systems, and evolutionary robotics. 
