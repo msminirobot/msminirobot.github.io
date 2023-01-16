@@ -3,4 +3,5 @@ github_users:
 
 github_repos:
   - ROS2swarm/ROS2swarm
-  - Minimize-Surprise
+  - Minimize-Surprise/Basic-Swarm-Behaviors-Thymio
+  - Minimize-Suprise/Self-assembly-Torus
