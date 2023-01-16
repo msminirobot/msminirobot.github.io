@@ -10,8 +10,15 @@ category: work
 ROS2swarm is a ROS 2 package intended to simplify and promote the use of ROS 2 in swarm robotics research, industry, and education. 
 It is an easy-to-extend framework for and library of swarm behaviors.
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
 {% include figure.html path="assets/img/ROS2swarm_TB.jpg" title="TurtleBot3 Waffle Pis in an arena." class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
 {% include figure.html path="assets/img/ROS2swarm_TB.jpg" title="TurtleBot3 Waffle Pis in an arena." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 A swarm of seven TurtleBot 3 Waffle Pis in an arena bounded by walls. 
 
 ROS2swarm currently provides six movement patterns for robot motion and two voting patterns for collective decision-making. We distinguish between basic patterns that implement primitive swarm behaviors and combined patterns that implement more complex behaviors. Parameter files allow the adjustment of patterns for different robot platforms and scenarios. In addition, we included a hardware protection layer to prevent hardware damage.
