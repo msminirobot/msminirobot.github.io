@@ -7,3 +7,4 @@ importance: 1
 category: work
 ---
 
+Minimize Surprise is a method to automatically generate swarm robot controllers. 
