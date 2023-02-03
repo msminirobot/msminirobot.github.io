@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm a postdoctoral researcher at the <a href="https://www.uni-konstanz.de">University Konstanz (Germany)</a> in the <a href="https://www.cps.uni-konstanz.de">Cyber-Physical Systems Group</a> headed by <a href="http://heikohamann.de">Prof. Dr.-Ing. Heiko Hamann</a>.
-My research interests are <b>swarm robotics</b>, <b>collective systems</b>, and <b>evolutionary robotics</b>. 
+I'm a postdoctoral researcher at the <a href="https://www.uni-konstanz.de">University Konstanz (Germany)</a> in the <a href="https://www.cps.uni-konstanz.de">Cyber-Physical Systems Group</a> headed by <a href="http://heikohamann.de">Prof. Dr.-Ing. Heiko Hamann</a> and an affiliate member of the <a href="https://www.exc.uni-konstanz.de/collective-behaviour/">Centre for the Advanced Study of Collective Behaviour</a>.
+My research interests are <b>swarm robotics</b>, <b>collective systems</b>, <b>evolutionary robotics</b>, and <b>ROS 2 for robot swarms</b>. 
 
 In 2022, I defended my doctoral dissertation titled "The Predicting Swarm: Evolving Collective Behaviors for Robot Swarms by Minimizing Surprise" at the <a href="https://www.uni-luebeck.de/">University of Lübeck (Germany)</a>. 
 I was member of the Service Robotics Group headed by Prof. Dr.-Ing. Heiko Hamann as part of the <a href="https://www.iti.uni-luebeck.de">Institute of Computer Engineering</a>.
