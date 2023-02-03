@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher. <a href='https://www.cps.uni-konstanz.de'>Universität Konstanz, Germany</a>. 
+subtitle: Postdoctoral researcher. University of Konstanz, Germany. 
 
 
 profile:
   align: right
   image: P1011732.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>University of Konstanz</p>
-    <p>78457 Konstanz, Germany</p>
+  address: 
 news: true  # includes a list of news items
  
 
