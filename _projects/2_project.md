@@ -1,10 +1,9 @@
 ---
 layout: page
 title: ROS2swarm
-description: A ROS 2 package
+description: A ROS 2 package for swarm behaviors
 img: assets/img/ROS2swarm_TB.jpg
 importance: 2
-category: work
 ---
 
 ROS2swarm is a ROS 2 package intended to simplify and promote the use of ROS 2 in swarm robotics research, industry, and education. 
