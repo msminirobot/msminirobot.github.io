@@ -29,9 +29,12 @@
 - title: Academic Experience
   type: time_table
   contents:
-    - title: Research Assistant (Postdoc) 
+    - title: Ada Lovelace Distinguished Research Fellow
+      institution: ScaDS.AI at Technische Universität Dresden, Dresden, Germany 
+      year: 2023-2024
+    - title: Research Associate (Postdoc) 
       institution: University of Konstanz, Germany
-      year: 2022
+      year: 2022-2023
       description:
         - Department of Computer and Information Science, Cyber-Physical Systems Group
         - Affiliate member of the Cluster of Excellence <i>Centre for the Advanced Study of Collective Behaviour</i>
