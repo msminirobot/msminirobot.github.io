@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm the Ada Lovelace Distinguished Research Fellow of the Center for Scalavle Data Analytics and Artificial Intelligence at Technische Universität Dresden, Germany. 
+I'm the Ada Lovelace Distinguished Research Fellow of the Center for Scalable Data Analytics and Artificial Intelligence at Technische Universität Dresden, Germany. 
 My research interests are <b>swarm robotics</b>, <b>collective systems</b>, <b>evolutionary robotics</b>, and <b>ROS 2 for robot swarms</b>. 
 
 In 2022, I defended my doctoral dissertation titled "The Predicting Swarm: Evolving Collective Behaviors for Robot Swarms by Minimizing Surprise" at the <a href="https://www.uni-luebeck.de/">University of Lübeck (Germany)</a>. 
