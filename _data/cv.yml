@@ -16,12 +16,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: Dr.-Ing. 
+    - title: Dr.-Ing. in Computer Science / Evolutionary Swarm Robotics 
       institution: University of Lübeck, Lübeck, Germany
       year: 2022
+      description: summa cum laude 
     - title: M.Sc. in Computer Science 
       institution: Technische Universität Berlin, Berlin, Germany
       year: 2017
+      description: study focus: intelligent systems \\ application subject: psychology 
     - title: B.Sc. in Applied Computer Science
       institution: Duale Hochschule Baden-Württemberg, Stuttgart, Germany
       year: 2014      
@@ -30,7 +32,7 @@
   type: time_table
   contents:
     - title: Ada Lovelace Distinguished Research Fellow
-      institution: ScaDS.AI at Technische Universität Dresden, Dresden, Germany 
+      institution: Technische Universität Dresden, Germany and Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig, Germany 
       year: 2023-2024
     - title: Research Associate (Postdoc) 
       institution: University of Konstanz, Germany
@@ -39,7 +41,7 @@
         - Department of Computer and Information Science, Cyber-Physical Systems Group
         - Affiliate member of the Cluster of Excellence <i>Centre for the Advanced Study of Collective Behaviour</i>
     - title: Research Assistant (Doctorate) 
-      institution: University of Konstanz, Germany
+      institution: University of Lübeck, Germany
       year: 2017-2022
       description:
         - Institute of Computer Engineering, Service Robotics Group 
