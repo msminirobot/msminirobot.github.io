@@ -19,11 +19,14 @@
     - title: Dr.-Ing. in Computer Science / Evolutionary Swarm Robotics 
       institution: University of Lübeck, Lübeck, Germany
       year: 2022
-      description: summa cum laude 
+      description: 
+      - summa cum laude 
     - title: M.Sc. in Computer Science 
       institution: Technische Universität Berlin, Berlin, Germany
       year: 2017
-      description: study focus: intelligent systems, application subject: psychology 
+      description: 
+      - "study focus: intelligent systems" 
+      - "application subject: psychology" 
     - title: B.Sc. in Applied Computer Science
       institution: Duale Hochschule Baden-Württemberg, Stuttgart, Germany
       year: 2014      
