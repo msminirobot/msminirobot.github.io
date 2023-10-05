@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher. Technische Universität Dresden, Germany. 
+subtitle: Postdoctoral researcher. University of Technology Nuremberg, Germany. 
 
 
 profile:
