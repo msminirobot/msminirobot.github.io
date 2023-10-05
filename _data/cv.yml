@@ -9,7 +9,7 @@
 - title: Research Interests
   type: list
   contents:
-    - swarm robotics and collective systems
+    - swarm robotics and multi-robot systems systems
     - automatic synthesis of swarm robot controllers using evolutionary algorithms and task-independent rewards
     - application of collective robot behavior in the real world
         
@@ -34,6 +34,9 @@
 - title: Academic Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher 
+      institution: Department of Engineering, University of Technology Nuremberg, Germany  
+      year: 2023
     - title: Ada Lovelace Distinguished Research Fellow
       institution: Technische Universität Dresden, Germany and Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig, Germany 
       year: 2023
