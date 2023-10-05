@@ -35,8 +35,9 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher 
-      institution: Department of Engineering, University of Technology Nuremberg, Germany  
-      year: 2023
+      institution: University of Technology Nuremberg, Germany  
+      year: 2023-now 
+      description: Department of Engineering 
     - title: Ada Lovelace Distinguished Research Fellow
       institution: Technische Universität Dresden, Germany and Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig, Germany 
       year: 2023
