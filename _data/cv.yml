@@ -9,8 +9,8 @@
 - title: Research Interests
   type: list
   contents:
-    - swarm robotics and multi-robot systems systems
-    - automatic synthesis of swarm robot controllers using evolutionary algorithms and task-independent rewards
+    - multi-robot systems systems
+    - automatic synthesis of controllers for multi-robot systems using evolutionary algorithms 
     - application of collective robot behavior in the real world
         
 - title: Education
