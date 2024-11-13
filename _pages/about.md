@@ -7,7 +7,7 @@ subtitle: Senior researcher. University of Technology Nuremberg, Germany.
 
 profile:
   align: right
-  image: P1011732.jpeg
+  image: Tanja-Kaiser-01550-2b.jpg
   image_circular: false # crops the image to make it circular
   address: 
 news: true  # includes a list of news items
