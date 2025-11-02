@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://msminirobot.github.io/sitemap.xml
